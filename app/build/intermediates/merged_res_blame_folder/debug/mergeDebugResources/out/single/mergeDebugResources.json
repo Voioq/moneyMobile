@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\layout_item_financial_record.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\layout\\item_financial_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.financialmagazine.app-debug-34:/layout_item_financial_record.xml.flat",
+        "source": "com.example.financialmagazine.app-main-36:/layout/item_financial_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\layout_activity_balance.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\layout\\activity_balance.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\layout_activity_filter.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\layout\\activity_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\layout_activity_add_category.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\layout\\activity_add_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\menu_filter_menu.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\menu\\filter_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.financialmagazine.app-debug-34:/layout_activity_balance.xml.flat",
+        "source": "com.example.financialmagazine.app-main-36:/layout/activity_balance.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\volod\\.gradle\\daemon\\8.4\\com.example.financialmagazine.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    }
+]
